@@ -1,4 +1,4 @@
-function Hd = ElipticF
+function Hd = ElipticF 
 %ELIPTICF Returns a discrete-time filter object.
 
 % MATLAB Code
