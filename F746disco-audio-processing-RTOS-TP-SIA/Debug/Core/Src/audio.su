@@ -1,0 +1,9 @@
+../Core/Src/audio.c:132:6:audioLoop	8	static,ignoring_inline_asm
+../Core/Src/audio.c:222:13:accumulateInputLevels	24	static
+../Core/Src/audio.c:253:6:HAL_SAI_RxCpltCallback	16	static
+../Core/Src/audio.c:261:6:HAL_SAI_RxHalfCpltCallback	16	static
+../Core/Src/audio.c:276:14:readFloatFromSDRAM	24	static
+../Core/Src/audio.c:288:13:writeFloatToSDRAM	24	static
+../Core/Src/audio.c:301:16:readInt16FromSDRAM	24	static
+../Core/Src/audio.c:313:13:writeInt16ToSDRAM	24	static
+../Core/Src/audio.c:331:13:processAudio	24	static

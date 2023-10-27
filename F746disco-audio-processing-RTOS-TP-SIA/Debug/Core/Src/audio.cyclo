@@ -1,0 +1,9 @@
+audio.c:132:6:audioLoop	11
+audio.c:222:13:accumulateInputLevels	5
+audio.c:253:6:HAL_SAI_RxCpltCallback	1
+audio.c:261:6:HAL_SAI_RxHalfCpltCallback	1
+audio.c:276:14:readFloatFromSDRAM	1
+audio.c:288:13:writeFloatToSDRAM	1
+audio.c:301:16:readInt16FromSDRAM	1
+audio.c:313:13:writeInt16ToSDRAM	1
+audio.c:331:13:processAudio	3
